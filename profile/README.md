@@ -9,25 +9,7 @@
 Suika2 is an open-source, cross-platform visual novel development engine that allows you to create a feature-rich visual novel with the care and attention to detail that your stories deserve. Featuring support and documentation in Japanese, English, and Chinese as well as active development and an accepting community, Suika2 could be the perfect start to your thrilling adventure, fawning romance, chilling epic, and anything else you could possibly imagine!
 
 ## Our Team
-With team members spanning Asia, Europe, and Oceania, the Suika2 Development Team is a truly global family of implementation-oriented induviduals working hard to build a user-friendly and accessable visual novel development engine open to everyone.
-
-ktabata – Creator of Suika2, Project Lead, and Lead Programmer
-
-Innocentvoice – Video, Obfuscation, and Advisor
-
-MaxMorgan – Graphic Design and Advisor
-
-Minirop – Code Review and Advisor
-
-Matsuno-san – Tester and Advisor
-
-KyouBrayden – Documentation, Website/Blog, and Advisor
-
-Midori – The unofficialy official spokeswoman of the Suika2 Development Team and protagonist of 'THE DEMO GAME'!
-
-Rina – Midori's older sister
-
-Please view the [People](https://github.com/orgs/suika2engine/people) section to visit member profiles. Also see the [Contributors](https://github.com/suika2engine/suika2/graphs/contributors) section of the Suika2 repository to see a full list of our wonderful contributors.
+With team members spanning Asia, Europe, and Oceania, the Suika2 Development Team is a truly global family of implementation-oriented induviduals working hard to build a user-friendly and accessable visual novel development engine with strong foundations in its community.
 
 ## Contact Us
 
